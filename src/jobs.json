@@ -13,7 +13,7 @@
         "contactEmail": "contact@teksolutions.com",
         "contactPhone": "555-555-5555"
       }
-    }, 
+    },
     {
       "id": "2",
       "title": "Front-End Engineer (React & Redux)",
@@ -82,6 +82,20 @@
         "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "e6fa",
+      "title": "test Name",
+      "type": "Part-Time",
+      "location": "Barcelona, ES",
+      "description": "Test",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Test Company",
+        "description": "Great company",
+        "contactEmail": "test@test.com",
+        "contactPhone": "654-654-654"
       }
     }
   ]
